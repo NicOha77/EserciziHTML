@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+header img {
+    width: 15em;
+}
+.shadow {
+        -moz-box-shadow: -1px 3px 27px 6px rgba(0,0,0,0.75);
+        -webkit-box-shadow: -1px 3px 27px 6px rgba(0,0,0,0.75);
+        box-shadow: -1px 3px 27px 6px rgba(0,0,0,0.75);
+
+        border-radius: 10px 10px 10px 10px;
+    }
+header nav {
+    background-color: rgb(238, 235, 187);
+    padding: 0.3em;
+    border-top: 1px solid rgb(112, 112, 1) ;
+
+}
+article  {
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+}
+article img{
+    width: 100%;
+}
+#autore{
+    text-align: center; color: gray;
+    margin-top: 0.3em;
+}
+.liste{
+width: 50%;
+margin: 0 auto;
+text-align: left;
+}
+section h2{
+    padding: 0.3em;
+    border-top: 1px solid rgb(112, 112, 1) ;
+}
+section h3{
+    padding: 0.3em;
+    border-bottom: 1px solid rgb(112, 112, 1) ;
+}
